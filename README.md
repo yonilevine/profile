@@ -1,6 +1,6 @@
 # Yoni Levine Profile
 
-# Austin Animal Shelter
+## Austin Animal Shelter
 Kaggle competition to predict animal adoption in Austin animal shelters.
 
 # Coffee Ratings
