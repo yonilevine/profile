@@ -14,3 +14,6 @@ Created NLP and ML algorithm to flag suicidal risk in social media.
 
 ## West Nile Virus
 Used City of Chicago data to predict West Nile Virus outbreak.
+
+## Bokeh NLP Class Visualization
+A NLP visualization to show the exclusivity and frequency of word usage between 2 different classes.
